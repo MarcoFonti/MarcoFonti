@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2 style="color: #43a28d;">Marco Fonti - Junior Full Stack Web Developer</h2>
 
-<!--
-**MarcoFonti/MarcoFonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ciao Ragazzi! 👋
 
-Here are some ideas to get you started:
+Mi chiamo Marco Fonti e sono un Junior Full Stack Web Developer.
+Nel 2022 ho scoperto la passione per la programmazione e ho deciso di seguirne un corso per fare in modo che questa passione potesse diventare molto di più.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Attualmente sto frequentando un corso presso Boolean Academy, dove sto imparando e sviluppando progetti utilizzando tecnologie come HTML, CSS, JavaScript, Bootstrap, Laravel e Vue.js. Sono appassionato di tecnologia e mi concentro principalmente sullo sviluppo web.
+
+Su GitHub, condivido i miei progetti e le mie competenze in diverse tecnologie. Sono sempre alla ricerca di nuove sfide e opportunità per crescere nel campo della programmazione web.
+
+
+<h4 style="color: #0a6954;">CONTATTI:</h4>
+
+```
+- Email: marcofonti05@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcofonti99/)
+
+```
+
+
+<h4 style="color: #0a6954;">SKILLS:</h4>
+
+```
+- Git
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Laravel
+- Vue.js
+- Sass
+- PHP
+- phpMyAdmin
+- SQL
+
+```
