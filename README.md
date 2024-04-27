@@ -12,16 +12,15 @@ Su GitHub, condivido i miei progetti e le mie competenze in diverse tecnologie. 
 
 <h4 style="color: #0a6954;">CONTATTI:</h4>
 
-```
 - Email: marcofonti05@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcofonti99/)
 
-```
+
 
 
 <h4 style="color: #0a6954;">SKILLS:</h4>
 
-```
+
 - Git
 - HTML
 - CSS
@@ -34,4 +33,3 @@ Su GitHub, condivido i miei progetti e le mie competenze in diverse tecnologie. 
 - phpMyAdmin
 - SQL
 
-```
