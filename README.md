@@ -2,7 +2,6 @@
 
 Ciao Ragazzi! 👋
 
-Mi chiamo Marco Fonti e sono un Junior Full Stack Web Developer.
 Nel 2022 ho scoperto la passione per la programmazione e ho deciso di seguirne un corso per fare in modo che questa passione potesse diventare molto di più.
 
 Attualmente sto frequentando un corso presso Boolean Academy, dove sto imparando e sviluppando progetti utilizzando tecnologie come HTML, CSS, JavaScript, Bootstrap, Laravel e Vue.js. Sono appassionato di tecnologia e mi concentro principalmente sullo sviluppo web.
