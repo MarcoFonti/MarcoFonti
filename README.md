@@ -2,11 +2,9 @@
 
 Ciao Ragazzi! 👋
 
-Nel 2022 ho scoperto la passione per la programmazione e ho deciso di seguirne un corso per fare in modo che questa passione potesse diventare molto di più.
+Sono Marco, un appassionato di programmazione che ha iniziato il proprio viaggio nel mondo dello sviluppo nel 2022. Dopo aver scoperto la mia passione, ho deciso di perseguirla attraverso un corso presso la Boolean Academy, dove sto affinando le mie competenze e sviluppando progetti utilizzando una varietà di tecnologie, tra cui HTML, CSS, JavaScript, Bootstrap, Laravel e Vue.js. La mia principale area di interesse è lo sviluppo web, e mi dedico costantemente all'apprendimento per rimanere aggiornato sulle ultime tendenze e metodologie.
 
-Attualmente sto frequentando un corso presso Boolean Academy, dove sto imparando e sviluppando progetti utilizzando tecnologie come HTML, CSS, JavaScript, Bootstrap, Laravel e Vue.js. Sono appassionato di tecnologia e mi concentro principalmente sullo sviluppo web.
-
-Su GitHub, condivido i miei progetti e le mie competenze in diverse tecnologie. Sono sempre alla ricerca di nuove sfide e opportunità per crescere nel campo della programmazione web.
+Su GitHub, condivido i miei progetti e le mie esperienze per contribuire alla comunità e continuare a crescere come sviluppatore. Sono sempre aperto a nuove sfide e opportunità che mi permettano di ampliare le mie conoscenze e competenze nel campo della programmazione web.
 
 
 <h4 style="color: #0a6954;">CONTATTI:</h4>
