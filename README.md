@@ -15,7 +15,7 @@ Su GitHub, condivido i miei progetti e le mie esperienze per contribuire alla co
 
 
 
-<h4 style="color: #0a6954;">SKILLS:</h4>
+<h4 style="color: #0a6954;">COMPETENZE:</h4>
 
 
 - Git
