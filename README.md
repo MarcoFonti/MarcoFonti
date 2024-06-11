@@ -18,15 +18,16 @@ Su GitHub, condivido i miei progetti e le mie esperienze per contribuire alla co
 <h4 style="color: #0a6954;">COMPETENZE:</h4>
 
 
-- Git
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Laravel
-- Vue.js
-- Sass
-- PHP
-- phpMyAdmin
-- SQL
+-  ` Git ` 
+-  ` HTML ` 
+- ` CSS ` 
+-  ` JavaScript ` 
+-  ` Bootstrap ` 
+-  ` Vue.js ` 
+-  ` Sass ` 
+-  ` PHP `
+-  ` Laravel ` 
+-  ` phpMyAdmin ` 
+-  ` SQL `
+-   ` MySQL ` 
 
